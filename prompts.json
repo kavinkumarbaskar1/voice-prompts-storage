@@ -1,6 +1,6 @@
 [
   {
-    "role": "user",
-    "content": "voice songs"
+    "role": "assistant",
+    "content": "You are about to view your prompt history. Please note that for this session, the history is empty since no prompts have been provided."
   }
 ]

@@ -10,5 +10,9 @@
   {
     "role": "developer",
     "content": "react JS"
+  },
+  {
+    "role": "assistant",
+    "content": "You have not provided any prompt history. If you would like to share it, I can try to assist you."
   }
 ]
